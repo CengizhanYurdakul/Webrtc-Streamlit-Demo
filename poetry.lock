@@ -99,7 +99,7 @@ jinja2 = "*"
 jsonschema = ">=3.0"
 numpy = "*"
 pandas = ">=0.18"
-face-detection = ">=0.2.2"
+face-detection = "*"
 toolz = "*"
 
 [package.extras]
